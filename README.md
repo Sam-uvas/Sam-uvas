@@ -15,7 +15,7 @@ Transforming spatial data into intelligent solutions through <strong>GIS</strong
 
 <!-- We'll replace this with a live SVG -->
 
-Python • GIS • Data Engineering • Automation • Remote Sensing • Cloud
+<p align ="center">Python • GIS • Data Engineering • Automation • Remote Sensing • Cloud</p>
 
 </p>
 
