@@ -1,8 +1,8 @@
-## Hi there 👋
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Sam Banele Mahlangu
 
 <h3 align="center">
-🛰️ Geomatics Technologist • 🌍 Building Geospatial Data Engineering Solutions
+🛰️ Geomatics Technologist • 🌍 Transitioning Geospatial Data Engineering
 </h3>
 
 <p align="center">
