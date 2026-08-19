@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-Geomatics Technologist | Building Geospatial Data Engineering Solutions
+GEOMATICS | GIS | AI | DATA
 </h3>
 <table>
 <tr>
