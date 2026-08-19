@@ -56,7 +56,7 @@ Bridge **Geomatics** and **Data Engineering** by building intelligent geospatial
 </tr>
 </table>
 
-<h2 align="center"> Tech Stack</h2>
+# Tech Stack
 
 <table align="center" width="100%">
 <tr>
@@ -131,14 +131,14 @@ Bridge **Geomatics** and **Data Engineering** by building intelligent geospatial
 </table>
 
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <table width="100%">
 <tr>
 
 <td align="center" width="50%">
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Sam-uvas&show_icons=true&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF"/>
 
@@ -146,7 +146,7 @@ Bridge **Geomatics** and **Data Engineering** by building intelligent geospatial
 
 <td align="center" width="50%">
 
-### 💻 Most Used Languages
+### Most Used Languages
 
 <img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Sam-uvas&layout=compact&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=FFFFFF"/>
 
@@ -158,7 +158,7 @@ Bridge **Geomatics** and **Data Engineering** by building intelligent geospatial
 
 <td align="center" width="50%">
 
-### 🔥 GitHub Streak
+###  Streak
 
 <img width="100%" src="https://streak-stats.demolab.com?user=Sam-uvas&theme=github-dark&hide_border=true&background=00000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=A0A0A0&stroke=D4AF37"/>
 
@@ -166,7 +166,7 @@ Bridge **Geomatics** and **Data Engineering** by building intelligent geospatial
 
 <td align="center" width="50%">
 
-### 🏆 GitHub Trophies
+###  Trophies
 
 <img width="100%" src="https://github-profile-trophy-one.vercel.app/?username=Sam-uvas&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=4&margin-w=15&margin-h=15"/>
 
