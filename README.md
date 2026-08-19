@@ -130,51 +130,59 @@ Bridge **Geomatics** and **Data Engineering** by building intelligent geospatial
 </tr>
 </table>
 
-#  GitHub Analytics
+
+# 📊 GitHub Analytics
 
 <table width="100%">
 <tr>
 
-<td align="center" width="20%">
+<td align="center" width="50%">
 
-###  Stats
+### 📈 GitHub Stats
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Sam-uvas&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF" />
-</td>
-
-<td align="center" width="20%">
-
-###  Languages
-
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Sam-uvas&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=FFFFFF" />
+<img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Sam-uvas&show_icons=true&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF"/>
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="50%">
 
-###  Streak
+### 💻 Most Used Languages
 
-<img src="https://streak-stats.demolab.com?user=Sam-uvas&theme=github-dark&hide_border=true&background=00000000&ring=D4AF37" />
-
-</td>
-
-<td align="center" width="20%">
-
-###  Trophies
-
-<img src="https://github-profile-trophy-one.vercel.app/?username=Sam-uvas&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=4&margin-w=15&margin-h=15" />
-
-</td>
-
-<td align="center" width="20%">
-
-###  Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sam-uvas&bg_color=000000&color=FFFFFF&line=D4AF37&point=D4AF37&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Sam-uvas&layout=compact&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=FFFFFF"/>
 
 </td>
 
 </tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🔥 GitHub Streak
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Sam-uvas&theme=github-dark&hide_border=true&background=00000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=A0A0A0&stroke=D4AF37"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🏆 GitHub Trophies
+
+<img width="100%" src="https://github-profile-trophy-one.vercel.app/?username=Sam-uvas&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=4&margin-w=15&margin-h=15"/>
+
+</td>
+
+</tr>
+
 </table>
 
+<table width="100%">
+<tr>
+<td align="center">
 
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Sam-uvas&bg_color=000000&color=FFFFFF&line=D4AF37&point=D4AF37&area=true&hide_border=true"/>
+
+</td>
+</tr>
+</table>
