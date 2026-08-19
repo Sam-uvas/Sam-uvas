@@ -135,32 +135,31 @@ Bridge **Geomatics** and **Data Engineering** by building intelligent geospatial
 </table>
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <table width="100%">
 <tr>
 
 <td align="center" width="20%">
 
-### 📊 Stats
+###  Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sam-uvas&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Sam-uvas&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF" />
+</td>
+
+<td align="center" width="20%">
+
+###  Languages
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Sam-uvas&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=FFFFFF" />
 
 </td>
 
 <td align="center" width="20%">
 
-### 💻 Languages
+###  Streak
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-uvas&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=FFFFFF"/>
-
-</td>
-
-<td align="center" width="20%">
-
-### 🔥 Streak
-
-<img src="https://streak-stats.demolab.com?user=Sam-uvas&theme=github-dark&hide_border=true&background=00000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37"/>
+<img src="https://streak-stats.demolab.com?user=Sam-uvas&theme=github-dark&hide_border=true&background=00000000&ring=D4AF37" />
 
 </td>
 
@@ -174,11 +173,13 @@ Bridge **Geomatics** and **Data Engineering** by building intelligent geospatial
 
 <td align="center" width="20%">
 
-### 📈 Graph
+###  Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sam-uvas&bg_color=00000000&color=FFFFFF&line=D4AF37&point=D4AF37&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sam-uvas&bg_color=000000&color=FFFFFF&line=D4AF37&point=D4AF37&area=true&hide_border=true" />
 
 </td>
 
 </tr>
 </table>
+<img src="https://github-readme-stats.vercel.app/api?username=Sam-uvas">
+
