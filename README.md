@@ -110,7 +110,7 @@ Bridge **Geomatics** and **Data Engineering** by building intelligent geospatial
 
 <img src="https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=D4AF37"/>
 
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=D4AF37"/>
+
 
 </td>
 
@@ -124,11 +124,7 @@ Bridge **Geomatics** and **Data Engineering** by building intelligent geospatial
 
 <img src="https://img.shields.io/badge/PostGIS-111111?style=for-the-badge&logoColor=D4AF37"/>
 
-<img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=D4AF37"/>
 
-<img src="https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=D4AF37"/>
-
-<img src="https://img.shields.io/badge/Airflow-111111?style=for-the-badge&logo=apacheairflow&logoColor=D4AF37"/>
 </td>
 
 </tr>
