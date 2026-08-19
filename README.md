@@ -63,7 +63,7 @@ Bridge **Geomatics** and **Data Engineering** by building intelligent geospatial
 
 <td width="25%" valign="top" align="center">
 
-### 🛰️ Geospatial
+### Geospatial
 
 <br>
 
@@ -80,7 +80,7 @@ Bridge **Geomatics** and **Data Engineering** by building intelligent geospatial
 
 <td width="25%" valign="top" align="center">
 
-### 💻 Programming
+###  Programming
 
 <br>
 
@@ -98,7 +98,7 @@ Bridge **Geomatics** and **Data Engineering** by building intelligent geospatial
 
 <td width="25%" valign="top" align="center">
 
-### ⚙️ Development
+### Development
 
 <br>
 
@@ -116,7 +116,7 @@ Bridge **Geomatics** and **Data Engineering** by building intelligent geospatial
 
 <td width="25%" valign="top" align="center">
 
-### 🌱 Learning
+###  Learning
 
 <br>
 
@@ -133,7 +133,6 @@ Bridge **Geomatics** and **Data Engineering** by building intelligent geospatial
 
 </tr>
 </table>
----
 
 #  GitHub Analytics
 
@@ -165,9 +164,9 @@ Bridge **Geomatics** and **Data Engineering** by building intelligent geospatial
 
 <td align="center" width="20%">
 
-### 🏆 Trophies
+###  Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sam-uvas&theme=algolia&no-frame=true&row=1&column=1"/>
+<img src="https://github-profile-trophy-one.vercel.app/?username=Sam-uvas&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=4&margin-w=15&margin-h=15" />
 
 </td>
 
@@ -181,5 +180,5 @@ Bridge **Geomatics** and **Data Engineering** by building intelligent geospatial
 
 </tr>
 </table>
-<img src="https://github-readme-stats.vercel.app/api?username=Sam-uvas">
+
 
